@@ -1,0 +1,12 @@
+input {
+    height: 30px;
+}
+
+input {
+    border: 0;
+    border-bottom: 1px solid black;
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}

@@ -97,5 +97,10 @@
         }
       }
     }
+  },
+  "defaultProject": "mapa",
+  "cli": {
+    "analytics": "b0340fc9-ce2b-4350-8811-9cc4dec146fa"
   }
+  
 }
